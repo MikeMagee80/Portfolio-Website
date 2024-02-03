@@ -11,7 +11,7 @@ window.onscroll = () => {
 
 
     // sticky header
-
+    let header = document.querySelector('header')
 
     // remove toggle icon and navbar when click navbar links (scroll)
 
