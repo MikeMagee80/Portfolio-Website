@@ -81,7 +81,8 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('/images/home.jpg') no-repeat;
+    /* background: url('/images/home.jpg') no-repeat; */
+    background: url('/images/Avatar-2.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -226,7 +227,7 @@ section {
     width: 100%;
 }
 
-.home-imgHover {
+/* .home-imgHover {
     position: absolute;
     top: 0;
     right: 0;
@@ -239,7 +240,7 @@ section {
 .home-imgHover:hover {
     background: var(--bg-color);
     opacity: .8;
-}
+} */
 
 /* About Section */
 
